@@ -1,5 +1,5 @@
 def hello_world():
 
-    self.text = 'helloworld'
+    text = 'helloworld'
 
     print(self.text)
