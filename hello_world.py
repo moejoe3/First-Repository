@@ -1,5 +1,4 @@
-class Hiworld:
-  def __init__(self):
+def hello_world():
 
     self.text = 'helloworld'
 
